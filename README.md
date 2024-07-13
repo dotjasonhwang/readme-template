@@ -83,8 +83,8 @@ Jason Hwang<br>
 
 <!-- repo -->
 
-[feature-request-url]: https://github.com/dotjasonhwang/readme-template/issues/new?labels=enhancement&template=feature-request---.md
-[bug-report-url]: https://github.com/dotjasonhwang/readme-template/issues/new?labels=bug&template=bug-report---.md
+[feature-request-url]: https://github.com/dotjasonhwang/readme-template/issues/new?labels=enhancement&template=feature-request.md
+[bug-report-url]: https://github.com/dotjasonhwang/readme-template/issues/new?labels=bug&template=bug-report.md
 
 <!-- built_with -->
 
