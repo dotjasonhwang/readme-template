@@ -67,10 +67,11 @@ Thank you for your interest in contributing to this project. Open source project
 ## Contact
 
 Jason Hwang<br>
-
 [![Gmail][gmail-shield]][gmail-url]<br>
-[![LinkedIn][linkedin-shield]][linkedin-url]<br>
-[![GitHub][github-shield]][github-url]<br>
+
+More about me:<br>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
 [![Instagram][instagram-shield]][instagram-url]
 
 ## Acknowledgments
