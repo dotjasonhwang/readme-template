@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dotjasonhwang/readme-template">
-    <img src="readme-assets/readme-color.svg" alt="Logo" width="80" height="80">
+    <img src="readme-assets/markdown.svg" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center">readme-template</h1>
 
