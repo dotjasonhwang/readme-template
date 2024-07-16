@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dotjasonhwang/repo_name">
-    <img src="readme-assets/logo.svg" alt="Logo" width="80" height="80">
+    <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
     <h1 align="center">repo_name</h1>
   </a>
 
