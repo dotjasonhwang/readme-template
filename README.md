@@ -33,9 +33,10 @@ I found myself spending a lot of time on the README. So I found a nice template 
 1.
 
 ```
-cp BLANK_README.md {PROJECT_ROOT}`
-cp -r .github {PROJECT_ROOT}`
-cp -r readme-assets {PROJECT_ROOT}`
+PROJECT_ROOT={Insert your project root here}
+cp BLANK_README.md $PROJECT_ROOT/README.md
+cp -r .github $PROJECT_ROOT
+cp -r readme-assets $PROJECT_ROOT
 ```
 
 2. replace the following placeholders with your project's information
