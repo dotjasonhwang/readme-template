@@ -99,7 +99,6 @@ More about me:<br>
 
 <!-- license -->
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/dotjasonhwang/readme-template.svg?style=for-the-badge
 [license-url]: https://github.com/dotjasonhwang/readme-template/blob/master/LICENSE.txt
 
