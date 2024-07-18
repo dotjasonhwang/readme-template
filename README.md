@@ -77,6 +77,8 @@ More about me:<br>
 
 ## Acknowledgments
 
+- [Simpleicons][simpleicons-url]
+  - For the [logo][logo-url]
 - [othneildrew/Best-README-Template][readme-template-url]
   - For the README template
 
@@ -115,4 +117,6 @@ More about me:<br>
 
 <!-- acknowledgements -->
 
+[simpleicons-url]: https://simpleicons.org/
+[logo-url]: https://simpleicons.org/?q=markdown
 [readme-template-url]: https://github.com/othneildrew/Best-README-Template
