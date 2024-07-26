@@ -30,16 +30,12 @@ I found myself spending a lot of time on the README. So I found a nice template 
 
 ## Usage
 
-1.
+1. Clone this repository
+2. `setup.sh {YOUR_PROJECT_ROOT_HERE}`
 
-```
-PROJECT_ROOT={Insert your project root here}
-cp BLANK_README.md $PROJECT_ROOT/README.md
-cp -r .github $PROJECT_ROOT
-cp -r readme-assets $PROJECT_ROOT
-```
+- This will copy the README template as well as the `.github` and `readme-assets` directories to your project root
 
-2. replace the following placeholders with your project's information
+3. Replace the following placeholders with your project's information
 
 - `logo.png`
 - `repo_name`
