@@ -24,7 +24,7 @@
 
 ## About
 
-Communication is a key component of any software. From variable names to APIs docs, effective delivery of information is crucial. The README, in my opinion, is the most important piece of documentation. It's the first thing a user sees when they visit your repository. This is where you can tell the story of your software, and set the tone for the trajectory of your project.
+Clear communication is vital for software. From variable names to APIs docs, effective delivery of information is crucial. The README is the first thing users see when they visit your repository. This is where you can tell the story of your software, and set the tone for the trajectory of your project.
 
 I found myself spending a lot of time on the README. So I found a nice template and made my own modifications to it (Thank you [othneildrew](https://github.com/othneildrew/Best-README-Template)!).
 
