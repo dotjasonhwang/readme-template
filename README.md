@@ -37,6 +37,9 @@ I found myself spending a lot of time on the README. So I found a nice template 
 
 3. Replace the following placeholders with your project's information
 
+- `github_username`
+- `contact_name`
+- `email_address`
 - `logo.png`
 - `repo_name`
 - `one_liner_description`
