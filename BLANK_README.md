@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dotjasonhwang/repo_name">
+  <a href="https://github.com/github_username/repo_name">
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
     <h1 align="center">repo_name</h1>
   </a>
@@ -63,13 +63,11 @@ Thank you for your interest in contributing to this project. Open source project
 
 ## Contact
 
-Jason Hwang<br>
+contact_name<br>
 [![Gmail][gmail-shield]][gmail-url]<br>
 
 More about me:<br>
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
-[![Instagram][instagram-shield]][instagram-url]
 
 ## Acknowledgments
 
@@ -82,8 +80,8 @@ More about me:<br>
 
 <!-- repo -->
 
-[feature-request-url]: https://github.com/dotjasonhwang/repo_name/issues/new?labels=enhancement&template=feature-request---.md
-[bug-report-url]: https://github.com/dotjasonhwang/repo_name/issues/new?labels=bug&template=bug-report---.md
+[feature-request-url]: https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md
+[bug-report-url]: https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md
 
 <!-- about -->
 
@@ -104,19 +102,15 @@ More about me:<br>
 
 <!-- license -->
 
-[license-shield]: https://img.shields.io/github/license/dotjasonhwang/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/dotjasonhwang/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 
 <!-- contact -->
 
-[gmail-shield]: https://img.shields.io/badge/jason.joonsun.hwang@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:jason.joonsun.hwang@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/dotjasonhwang
+[gmail-shield]: https://img.shields.io/badge/email_address-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:email_address
 [github-shield]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
-[github-url]: https://github.com/dotjasonhwang
-[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://instagram.com/dotjasonhwang
+[github-url]: https://github.com/github_username
 
 <!-- acknowledgements -->
 
