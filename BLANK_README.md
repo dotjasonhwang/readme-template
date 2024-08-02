@@ -107,7 +107,7 @@ More about me:<br>
 
 <!-- contact -->
 
-[gmail-shield]: https://img.shields.io/badge/email_address-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-shield]: https://img.shields.io/badge/email_address-D14836?style=flat-square&logo=gmail&logoColor=white
 [gmail-url]: mailto:email_address
 [github-shield]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 [github-url]: https://github.com/github_username
