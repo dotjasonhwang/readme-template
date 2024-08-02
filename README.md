@@ -105,7 +105,7 @@ More about me:<br>
 
 <!-- contact -->
 
-[gmail-shield]: https://img.shields.io/badge/jason.joonsun.hwang@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-shield]: https://img.shields.io/badge/jason.joonsun.hwang@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white
 [gmail-url]: mailto:jason.joonsun.hwang@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/dotjasonhwang
