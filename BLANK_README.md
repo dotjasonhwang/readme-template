@@ -114,10 +114,7 @@ Thank you for your interest in contributing to this project. Open source project
 ## Contact
 
 contact_name<br>
-[![Gmail][gmail-shield]][gmail-url]<br>
-
-More about me:<br>
-[![GitHub][github-shield]][github-url]
+<a href="mailto:email_address">email_address</a>
 
 ## Acknowledgments
 
@@ -154,13 +151,6 @@ More about me:<br>
 
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-
-<!-- contact -->
-
-[gmail-shield]: https://img.shields.io/badge/email_address-D14836?style=flat-square&logo=gmail&logoColor=white
-[gmail-url]: mailto:email_address
-[github-shield]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
-[github-url]: https://github.com/github_username
 
 <!-- acknowledgements -->
 
