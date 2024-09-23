@@ -108,8 +108,6 @@ Thank you for your interest in contributing to this project. Open source project
 [Request Feature][feature-request-url]<br>
 [Report Bug][bug-report-url]
 
-<!-- LICENSE -->
-
 ## License
 
 [![License][license-shield]][license-url]
@@ -117,7 +115,7 @@ Thank you for your interest in contributing to this project. Open source project
 ## Contact
 
 Jason Hwang<br>
-<a href="mailto:hello@dotjasonhwang.com">hello@dotjasonhwang.com</a>
+[hello@dotjasonhwang.com](mailto:hello@dotjasonhwang.com)
 
 ## Acknowledgments
 
