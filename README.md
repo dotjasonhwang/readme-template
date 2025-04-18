@@ -52,10 +52,9 @@ SOFTWARE.
 <br />
 <div align="center">
   <a href="https://github.com/dotjasonhwang/readme-template">
-    <img src="readme-assets/markdown.svg" alt="Logo" width="80" height="80">
+    <img src="readme-assets/readme-template.png" alt="Logo" width="256" height="256" style="margin-bottom: 10px">
   </a>
   <h1 align="center">readme-template</h1>
-
   <p align="center">dotjasonhwang's fork of <a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a>
   </p>
 </div>
